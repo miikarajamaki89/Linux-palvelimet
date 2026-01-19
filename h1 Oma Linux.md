@@ -1,4 +1,4 @@
-#Virtual Box ja Linuxin asennus
+# Virtual Box ja Linuxin asennus
 Virtual Box asennus onnistui, itsellä käytössä AMD Ryzen 5 7500F prosessori ja Asrock B650M Pro Rs emolevy jossa vt-x(SVM) oli auto-asetuksella biosissa, ei enabled. Testaan toimiiko ja kysyn opettajalta kannattaako asetus muuttaa enabled.
  <img width="1253" height="677" alt="Näyttökuva 2026-01-19 133348" src="https://github.com/user-attachments/assets/5990c0dd-b86c-40dd-a3a0-3f1e9396156c" />
 Linuxille laitettu RAM 4096MB ja 2 prosessoria.
