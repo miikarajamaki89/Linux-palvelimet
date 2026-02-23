@@ -1,4 +1,4 @@
-#h2 Komentaja Pingviini
+# h2 Komentaja Pingviini
 Aloitin avaamalla terminaalin koska asentaessa debiania on myös asentunut GUI Gnome. 
 <img width="1338" height="926" alt="image" src="https://github.com/user-attachments/assets/0452970d-066a-4645-b0ca-1c6e6428307f" />
 
