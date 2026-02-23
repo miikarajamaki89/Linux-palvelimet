@@ -1,4 +1,4 @@
-#h3 Hello Web Server
+# h3 Hello Web Server
 Aloitin asentamalla apachen sudo apt-get install apache2 komennolla.
 testasin että apache tarkistamalla localhostin selaimessa. Default Apache2 sivu aukeaa.
 <img width="980" height="713" alt="image" src="https://github.com/user-attachments/assets/44935b07-0695-4118-a031-4275ad2fe86e" />
