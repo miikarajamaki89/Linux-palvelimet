@@ -1,4 +1,21 @@
-# Virtual Box ja Linuxin asennus
+# h1 Oma Linux
+
+## Lue ja tiivistä
+
+-Raportin pitää olla niin tarkka, että toinen voi toistaa työn samoissa olosuhteissa.
+
+-Kirjaa komennot, klikkaukset, ympäristö, ajat ja työvaiheiden kestot.
+
+-Raportoi myös virheet ja odottamattomat tulokset.
+
+-Kirjoita selkeästi ja käytä väliotsikoita, jotta raportti on helppolukuinen.
+
+-Viittaa lähteisiin akateemisen käytännön mukaisesti.
+
+-Vältä sepittämistä ja plagiointia — molemmat ovat vakavia virheitä.
+
+## Virtual Box ja Linuxin asennus
+
 Virtual Box asennus onnistui, itsellä käytössä AMD Ryzen 5 7500F prosessori ja Asrock B650M Pro Rs emolevy jossa vt-x(SVM) oli auto-asetuksella biosissa, ei enabled. Testaan toimiiko ja kysyn opettajalta kannattaako asetus muuttaa enabled.
  <img width="1253" height="677" alt="Näyttökuva 2026-01-19 133348" src="https://github.com/user-attachments/assets/5990c0dd-b86c-40dd-a3a0-3f1e9396156c" />
 Linuxille laitettu RAM 4096MB ja 2 prosessoria.
@@ -8,6 +25,7 @@ Käytin Graphical installeria, käytännössä sama asia kuin installer mutta va
 Asennus menee siis Johannan ohjeistuksen mukaan kohdasta 3. eteenpäin.
 Asennus onnistui ilman ongelmia. Testasin Firefoxin ja toimii normaalisti.
 <img width="1289" height="892" alt="image" src="https://github.com/user-attachments/assets/f9685913-5884-48b7-a93a-c9688d1dd0de" />
+
 Lähteet:
 https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-20082025.md asennusohjeet
 https://terokarvinen.com/linux-palvelimet/ tehtävänanto
