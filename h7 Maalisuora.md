@@ -39,7 +39,11 @@ Tein itselleni lspwd-skriptin seuraavanlaisesti.
 <img width="878" height="129" alt="Näyttökuva 2026-03-09 193010" src="https://github.com/user-attachments/assets/2a7872aa-17ce-4a3e-b6cf-ade75fb4f2f8" />
 
 Lähteet: 
-  https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
-  https://terokarvinen.com/2007/12/04/shell-scripting-4/
-  https://www.w3schools.com/cpp/cpp_getstarted.asp
-  https://www.w3schools.com/c/c_getstarted.php
+
+https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
+
+https://terokarvinen.com/2007/12/04/shell-scripting-4/
+
+https://www.w3schools.com/cpp/cpp_getstarted.asp
+
+https://www.w3schools.com/c/c_getstarted.php
